@@ -9,6 +9,10 @@ Social Sphere is a cutting-edge social media web application that empowers users
 - Secure user authentication with JWT and enhanced privacy through bcrypt.
 - Empowering users with the ability to connect, interact, and engage.
 - Smooth and efficient file uploads using multer.
+  
+![HomePageLight](https://github.com/Sahil-Chhabra-09/SocialSphere/assets/122990320/0a7dfc65-488d-4aed-a28b-036351769ef8)
+
+![HomePageDark](https://github.com/Sahil-Chhabra-09/SocialSphere/assets/122990320/f248a89c-e5b2-471f-b840-e1d68a139054)
 
 ## Future Possibilities
 
@@ -23,3 +27,4 @@ Social Sphere is just the beginning. With its extensible architecture and versat
 Join us in shaping the future of social media with Social Sphere. Your ideas and contributions are more than welcome!
 
 Let's connect and build the future of social interaction together! 🔗 [Visit Social Sphere](coming soon...)
+
