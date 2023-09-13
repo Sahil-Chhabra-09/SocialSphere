@@ -28,3 +28,4 @@ Join us in shaping the future of social media with Social Sphere. Your ideas and
 
 Let's connect and build the future of social interaction together! 🔗 [Visit Social Sphere](coming soon...)
 
+![DB Schema](https://github.com/Sahil-Chhabra-09/SocialSphere/assets/122990320/9d123733-fb9e-4d54-86de-278c9a97389c)
